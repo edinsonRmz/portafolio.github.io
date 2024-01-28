@@ -1,6 +1,6 @@
 import React from 'react';
 import './../css/Proyectos.css';
-import Captura from './../img/Captura.png';
+import Captura from './../../public/Captura.png';
 
 function Proyectos() {
   return (

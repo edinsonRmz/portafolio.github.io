@@ -1,14 +1,14 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import './../css/Descripcion.css';
-import HTML from './../assets/html5-original.svg';
-import CSS from './../assets/css3-plain.svg';
-import JAVASCRIPT from "./../assets/javascript-plain.svg";
-import BOOTSTRAP from './../assets/bootstrap-plain.svg';
-import GITHUB from './../assets/github-original.svg';
-import GIT from './../assets/git-plain.svg';
-import REACT from './../assets/react-original.svg';
-import SQL from './../assets/mysql-original-wordmark.svg';
+import HTML from './../../public/html5-original.svg';
+import CSS from './../../public/css3-plain.svg';
+import JAVASCRIPT from "./../../public/javascript-plain.svg";
+import BOOTSTRAP from './../../public/bootstrap-plain.svg';
+import GITHUB from './../../public/github-original.svg';
+import GIT from './../../public/git-plain.svg';
+import REACT from './../../public/react-original.svg';
+import SQL from './../../public/mysql-original-wordmark.svg';
 
 function Descripcion() {
   return (

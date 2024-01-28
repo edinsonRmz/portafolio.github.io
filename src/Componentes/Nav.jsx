@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Link as RouterLink } from 'react-router-dom';
 import { animateScroll as scroll } from 'react-scroll';
-import Avatar from './../img/avataaars.png';
+import Avatar from './../../public/avataaars.png';
 import './../../src/css/Nav.css';
 
 function Nav() {
