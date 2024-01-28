@@ -1,0 +1,47 @@
+.ProyectosContainer {
+  background-color: #fff;
+}
+
+.TituloProyectos {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+}
+
+.ProyectosText {
+}
+
+.DescripcionDeProyectos {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.AQueIrianMisProyectos {
+}
+
+.contenedordeproyectos {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.proyecyo1 {
+  text-align: center;
+  margin: 20px;
+}
+
+.proyecyo1 a {
+  text-decoration: none;
+  color: #333; 
+}
+
+.proyecyo1 img {
+  width: 400px;
+  border-radius: 8px; 
+  margin-bottom: 10px;
+}
+
+.NombreProyecto {
+}

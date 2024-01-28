@@ -1,0 +1,95 @@
+.PieContenedor {
+    background-color: #000;
+    padding: 30px 0;
+}
+
+.Pie {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.Pie ul {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+.Pie li {
+    margin: 0 15px;
+}
+
+.Pie a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+
+.Linea {
+    flex: 1;
+    width: 80%;
+    height: 2px;
+    background-color: #000;
+    margin: 20px auto;
+}
+
+.Redes {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.Gitgub,
+.instagram,
+.linkedin,
+.wpp {
+    margin-right: 15px;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+.Redes a {
+    text-decoration: none;
+    color: #000;
+}
+
+.wpp a svg {
+    fill: #25D366;
+}
+
+.Gitgub a svg {
+    fill: #fff;
+}
+
+.instagram a svg {
+    fill: #fff;
+}
+
+.linkedin a svg {
+    fill: #fff;
+}
+
+@media (max-width: 768px) {
+    .Redes {
+        flex-direction: row;
+        margin-top: 10px;
+    }
+
+    .Gitgub,
+    .instagram,
+    .linkedin,
+    .wpp {
+        margin-right: 10px;
+        padding: 10px;
+    }
+}
+@media (max-width: 768px) {
+    .instagram {
+        margin-right: 10px;
+        padding: 10px;
+    }
+}
