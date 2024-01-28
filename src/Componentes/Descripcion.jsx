@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import './../css/Descripcion.css';
-import HTML from './../Img/html5-original.svg';
+import HTML from './../img/html5-original.svg';
 import CSS from './../Img/css3-plain.svg';
 import JAVASCRIPT from './../Img/javascript-plain.svg';
 import BOOTSTRAP from './../Img/bootstrap-plain.svg';
