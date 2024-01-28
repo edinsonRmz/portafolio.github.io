@@ -1,11 +1,9 @@
-/* Estilos generales para el contenedor de navegación */
 .ContenedorNav {
   padding: 1.2rem 0;
   box-shadow: none;
   z-index: auto;
 }
 
-/* Contenedor flexible para la barra de navegación */
 .navBar {
   display: flex;
   justify-content: space-between;
@@ -13,31 +11,27 @@
   min-height: 3.25rem;
 }
 
-/* Estilos para el contenedor de la imagen */
 .ContenedorImg {
   display: flex;
   align-items: center;
 }
 
-/* Estilos para la imagen principal */
 .img {
-  margin-right: 1rem; /* Añade un espacio entre la imagen y el nombre */
+  margin-right: 1rem; 
 }
 
 .imgAvatar {
-  width: 100px; /* Ajusta el tamaño de la imagen */
+  width: 100px; 
   height: 100px;
-  border-radius: 50%; /* Hace que la imagen sea redonda */
+  border-radius: 50%; 
 }
 
-/* Estilos para el nombre */
 .contenedorNombre {
   text-align: center;
 }
 
-/* Estilos para la lista */
 .ContenedorLista {
-  display: flex; /* Cambia la propiedad 'display' a 'flex' para que el menú se despliegue en pantallas pequeñas */
+  display: flex;
 }
 
 .Lista {
@@ -48,10 +42,8 @@
 }
 
 .Lista li {
-  margin: 0 1rem; /* Añade un espacio entre los elementos de la lista */
 }
 
-/* Estilos para los enlaces */
 .Link {
   font-size: 18px;
   color: #000;
@@ -71,7 +63,7 @@
     width: 100%;
     background-color: #fff; 
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    z-index: 1;
+    z-index: 1;}
   }
 
   .Lista.active {
