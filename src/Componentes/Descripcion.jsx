@@ -3,12 +3,12 @@ import { Link } from 'react-router-dom';
 import './../css/Descripcion.css';
 import HTML from './../assets/html5-original.svg';
 import CSS from './../assets/css3-plain.svg';
-import JAVASCRIPT from './../Img/javascript-plain.svg';
-import BOOTSTRAP from './../Img/bootstrap-plain.svg';
-import GITHUB from './../Img/github-original.svg';
-import GIT from './../Img/git-plain.svg';
-import REACT from './../Img/react-original.svg';
-import SQL from './../Img/mysql-original-wordmark.svg';
+import JAVASCRIPT from "./../assets/javascript-plain.svg";
+import BOOTSTRAP from './../assets/bootstrap-plain.svg';
+import GITHUB from './../assets/github-original.svg';
+import GIT from './../assets/git-plain.svg';
+import REACT from './../assets/react-original.svg';
+import SQL from './../assets/mysql-original-wordmark.svg';
 
 function Descripcion() {
   return (
