@@ -1,5 +1,5 @@
 import React from 'react';
-import './../css/Aserca.css';
+import './../../public/css/Aserca.css';
 
 function Descripcion() {
   const handleDownload = () => {

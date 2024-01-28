@@ -1,6 +1,6 @@
   import React from 'react';
   import { Link } from 'react-router-dom';
-  import './../css/Pie.css'; // Asegúrate de importar el archivo CSS correspondiente
+  import './../../public/css/Pie.css'; // Asegúrate de importar el archivo CSS correspondiente
 
   function Pie() {
     return (

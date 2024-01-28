@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import './../css/Descripcion.css';
+import './../..//public/css/Descripcion.css';
 import HTML from './../../public/html5-original.svg';
 import CSS from './../../public/css3-plain.svg';
 import JAVASCRIPT from "./../../public/javascript-plain.svg";

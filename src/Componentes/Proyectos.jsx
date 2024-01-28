@@ -1,5 +1,5 @@
 import React from 'react';
-import './../css/Proyectos.css';
+import './../../public/css/Proyectos.css';
 import Captura from './../../public/Captura.png';
 
 function Proyectos() {
