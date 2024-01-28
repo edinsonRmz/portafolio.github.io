@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import './../css/Descripcion.css';
-import HTML from './../assets/img/html5-original-wordmark.svg';
+import HTML from './../assets/html5-original.svg';
 import CSS from './../assets/css3-plain.svg';
 import JAVASCRIPT from './../Img/javascript-plain.svg';
 import BOOTSTRAP from './../Img/bootstrap-plain.svg';
