@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import './../css/Descripcion.css';
 import HTML from './../img/html5-original.svg';
-import CSS from './../Img/css3-plain.svg';
+import CSS from './../assets/css3-plain.svg';
 import JAVASCRIPT from './../Img/javascript-plain.svg';
 import BOOTSTRAP from './../Img/bootstrap-plain.svg';
 import GITHUB from './../Img/github-original.svg';
